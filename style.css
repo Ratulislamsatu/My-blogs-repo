@@ -1,0 +1,35 @@
+.blog{
+    color: aqua;
+    background-color: rgb(243, 151, 12);
+    height: 50%;
+    width: 80%;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px 10px;
+}
+.second{
+    color: rgb(20, 19, 24);
+    background-color: rgb(18, 245, 131);
+    height: 50%;
+    width: 80%;
+    border: 2px solid rgb(97, 11, 11);
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px 10px;
+}
+#last{
+    color: rgb(97, 134, 134);
+    background-color: rgb(28, 11, 48);
+    height: 50%;
+    width: 80%;
+    border: 2px solid black;font-size: 16px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px 10px;
+}
+h1{
+    text-align: center;
+}
